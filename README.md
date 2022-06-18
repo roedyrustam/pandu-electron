@@ -6,6 +6,28 @@ With this, you can easily configure website URLs, Menus, Icons, Hidden Elements,
 
 Contact Us
 Email : roedyrustam.id@gmail.com
+### Quick start
+**Make sure you have Node version >= 6.0 and NPM >= 3**
+
+```bash
+# clone our repo
+# --depth 1 removes all but one .git commit history
+git clone --depth 1 https://github.com/roedyrustam/sidepeelectron
+
+# change directory to our repo
+cd sidepeelectron
+
+# install the repo with npm
+npm install
+
+# launch the development build
+npm start
+
+# if you're in China use cnpm
+# https://github.com/cnpm/cnpm
+```
+Electron will automatically launch and update itself when your source code changes.
+
 
 # Files Structure
 
