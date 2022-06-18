@@ -1,6 +1,6 @@
-// WebToDesk v2.0.0
-// Sameera Damith (CodeStack)
-// damith.sameera1@gmail.com
+// PanduElectronv2.0.0
+// Roedy Rustam ( Pandu Talenta Digital )
+// roedyrustam.id@gmail.com
 
 const {app, BrowserWindow, nativeTheme, ipcMain, Menu, dialog} = require('electron')
 const path = require('path')
