@@ -16,3 +16,17 @@ dist folderBuilt package files, applications are here
 config.js - Application configuration file. (Application Name, URL, application window sizes and more.)
 package.json - NodeJS application and package details.
 menu-config.js – Main menu template
+
+# Application Run Locally
+In your project folder simply open terminal/command line tools and install all dependencies.
+
+First you need to install your computer Node.js letest version
+
+
+Run the following command.
+
+$ npm install
+
+After successfully installed all the dependencies, run the following command.
+
+$ npm start
