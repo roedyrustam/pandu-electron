@@ -8,3 +8,11 @@ Contact Us
 Email : roedyrustam.id@gmail.com
 
 # Files Structure
+
+node_modules - All dependencies included in this folder (Electron).
+public folder - All used Images, stylesheet files included in this folder.
+build folder – Include all app icons.
+dist folderBuilt package files, applications are here
+config.js - Application configuration file. (Application Name, URL, application window sizes and more.)
+package.json - NodeJS application and package details.
+menu-config.js – Main menu template
