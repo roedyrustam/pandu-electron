@@ -4,7 +4,7 @@
 
 const config = {
     // Main Application URL
-    'websiteUrl' : 'http://example.com',
+    'websiteUrl' : 'http://roedyrustam.online',
 
     // Application Name
     'appName' : 'Pandu Talenta Digital',
