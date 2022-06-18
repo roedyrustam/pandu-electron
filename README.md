@@ -7,7 +7,7 @@ With this, you can easily configure website URLs, Menus, Icons, Hidden Elements,
 Contact Us
 Email : roedyrustam.id@gmail.com
 
-Files Structure
+<h3>Files Structure<h3/>
 node_modules - All dependencies included in this folder (Electron).
 public folder - All used Images, stylesheet files included in this folder.
 build folder – Include all app icons.
