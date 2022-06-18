@@ -6,7 +6,7 @@ const { ipcMain } = require('electron');
 
 module.exports = [
     {
-        label: 'WebToDesk',
+        label: 'Pandu Talenta Digital',
         submenu: [
             {label : 'Home', click : () => { require('./main')("home") }},
             {label : 'About', click : () => { require('./main')("about") }},

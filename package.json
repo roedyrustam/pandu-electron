@@ -1,12 +1,12 @@
 {
-  "name": "WebToDesk",
+  "name": "Pandu Talenta Digital",
   "version": "2.0.0",
   "description": "Convert Website to Desktop application",
   "main": "main.js",
   "scripts": {
     "start": "electron ."
   },
-  "author": "Sammera Damith (CodeStack)",
+  "author": "Roedy Rustam (PanduTalentaDigital)",
   "license": "CC0-1.0",
   "devDependencies": {
     "electron": "^16.0.6",

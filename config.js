@@ -7,7 +7,7 @@ const config = {
     'websiteUrl' : 'http://example.com',
 
     // Application Name
-    'appName' : 'WebToDesk',
+    'appName' : 'Pandu Talenta Digital',
 
     // Application window width and height
     'width' : 1280,
